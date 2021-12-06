@@ -1,6 +1,5 @@
-# DIY_MD
-Do it yourself: Molecular Dynamics
-xxxxxxxx
+# Molecular Dynamics DIY
 
-This line was edited by Diego.
+Do it yourself: Molecular Dynamics
+
 
