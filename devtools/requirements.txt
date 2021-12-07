@@ -1,4 +1,7 @@
 numpy
 matplotlib
 jupyterlab
+tqdm
+pint
+pyunitwizard
 
